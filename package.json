@@ -1,4 +1,5 @@
-{
+```typescriptreact file="package.json"
+[v0-no-op-code-block-prefix]{
   "name": "code-translator",
   "version": "0.1.0",
   "private": true,
